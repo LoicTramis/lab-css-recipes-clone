@@ -51,7 +51,7 @@ ul li {
     list-style-type: none;
 }
 ul li:before {
-    content: "-";
+    content: "- ";
 }
 ol {
     counter-reset: list;
